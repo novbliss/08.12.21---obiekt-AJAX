@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Kacper Kempka",
+        "email":"kacperkempka1@gmail.com"
+    },
+    {
+        "id":2,
+        "name":"Bruchilda Mińsk",
+        "email":"bruchildaminsk@gmail.com"
+    },
+    {
+        "id":3,
+        "name":"Dariusz Pawłowski",
+        "email":"dariuszpawlowski@gmail.com"
+    },
+    {
+        "id":4,
+        "name":"Zofia Wood",
+        "email":"zofiawood@gmail.com"
+    }
+]
